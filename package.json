@@ -1,0 +1,14 @@
+{
+  "name": "cripta-sonora",
+  "version": "1.0.0",
+  "description": "Encuesta de terror para emparejar personas por sus gustos musicales",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "license": "MIT",
+  "private": true
+}
